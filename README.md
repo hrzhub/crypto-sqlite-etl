@@ -33,6 +33,7 @@ This project demonstrates a fundamental data engineering workflow:
 1. Clone this repository
 
    > git clone https://github.com/muhammad9harraz/crypto_sqlite.git
+
    > cd crypto_sqlite
 
 2. Install dependencies
