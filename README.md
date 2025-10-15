@@ -32,7 +32,7 @@ This project demonstrates a fundamental data engineering workflow:
 
 1. Clone this repository
 
-   > git clone https://github.com/muhammad9harraz/crypto-sqlite-etl
+   > git clone https://github.com/hrzhub/crypto-sqlite-etl
 
    > cd crypto_sqlite
 
